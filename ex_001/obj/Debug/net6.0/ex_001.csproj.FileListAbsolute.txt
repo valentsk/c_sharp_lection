@@ -1,0 +1,15 @@
+C:\temp\c_sharp\lection\ex_001\bin\Debug\net6.0\ex_001.exe
+C:\temp\c_sharp\lection\ex_001\bin\Debug\net6.0\ex_001.deps.json
+C:\temp\c_sharp\lection\ex_001\bin\Debug\net6.0\ex_001.runtimeconfig.json
+C:\temp\c_sharp\lection\ex_001\bin\Debug\net6.0\ex_001.dll
+C:\temp\c_sharp\lection\ex_001\bin\Debug\net6.0\ex_001.pdb
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.csproj.AssemblyReference.cache
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.AssemblyInfoInputs.cache
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.AssemblyInfo.cs
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.csproj.CoreCompileInputs.cache
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.dll
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\refint\ex_001.dll
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.pdb
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ex_001.genruntimeconfig.cache
+C:\temp\c_sharp\lection\ex_001\obj\Debug\net6.0\ref\ex_001.dll
